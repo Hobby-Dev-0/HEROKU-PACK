@@ -3,4 +3,4 @@ system ("git clone https://GitHub.com/DynamicUserbot/Dynamic-Userbot && cd Dynam
 # try af
 print("OH SYSTEM IS CRASHED")
 system("python3 -m DYNAMIC")
-print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @DARKLON_USERBOT_SUPPORT")
+print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @DYNAMIC_USERBOT_SUPPORT")
