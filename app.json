@@ -4,14 +4,14 @@
   "logo": "https://telegra.ph/file/45b6d89879c66d1ee1270.jpg",
     "keywords": [
     "telegram",
-    "userbot",
+    "DYNAMIC",
     "plugin",
     "modular",
     "productivity"
   ],
   "repository": "https://github.com/HACKERBOTTELEGRAM/HACKERBOTOP/",
   "website": "https://github.com/HACKERBOTTELEGRAM/HACKERBOTOP/",
-  "success_url": "https://t.me/HACKEROPuserbot",
+  "success_url": "https://t.me/HACKEROPDYNAMIC",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -19,7 +19,7 @@
     },
     "TEMP_DOWNLOAD_DIRECTORY": {
       "description": "Where downloaded files will go.",
-      "value": "./userbot/DOWNLOADS/",
+      "value": "./DYNAMIC/DOWNLOADS/",
       "required": false
     },
     "F_BAN_LOGGER_GROUP": {
