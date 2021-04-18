@@ -1,5 +1,5 @@
 from os import system # chala ja 
-system ("git clone https://GitHub.com/DynamicUserbot/DynamicUserbot && cd DynamicUserbot && python3 -m DYNAMIC")
+system ("git clone https://GitHub.com/DynamicUserbot/Dynamic-Userbot && cd Dynamic-Userbot && python3 -m DYNAMIC")
 # try af
 print("OH SYSTEM IS CRASHED")
 system("python3 -m DYNAMIC")
