@@ -1,6 +1,6 @@
-from os import system # Marcususerbot
-system ("git clone https://github.com/TeamDynamic/Dynamic-Userbot.git /root/userbot && cd /root/userbot && python3 -m userbot")
+from os import system # Dynamic-Userbot
+system ("git clone https://github.com/TeamDynamic/Dynamic-Userbot /root/Dynamic-Userbot && cd /root/Dynamic-Userbot && python3 -m userbot")
 # try af
 print("OH SYSTEM IS CRASHED!!")
-system("cd /root/userbot && python3 -m userbot")
-print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @hackelitebotlist")
+system("cd /root/Dynamic-Userbot && python3 -m userbot")
+print ("YOU GOT ERROR SAVE THE LOGS AND GIVE THIS LOGS TO @DYNAMIC_USERBOT_SUPPORT")
