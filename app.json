@@ -7,7 +7,7 @@
     "userbot",
     "plugin",
     "telethon",
-    "Eivabot",
+    "Andobot",
     "modular",
     "productivity"
   ],
@@ -43,14 +43,6 @@
       "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @Eiva50_bot",
       "value": "",
       "required": false
-    },
-    "HANDLER": {
-      "description": "Your command handler. Default is ' . ' (dot).",
-      "value": "."
-    },
-    "ANDENCENTO_HNDLR": {
-      "description": "Your command handler. change in both ANDENCENTO_HNDLR and HANDLER if you are changing the handler Because We Use 2 HNDLERS. Default is ' . ' (dot).",
-      "value": "."
     },
     "BUTTONS_IN_HELP": {
       "description": "No.of buttons to display in help menu.",
