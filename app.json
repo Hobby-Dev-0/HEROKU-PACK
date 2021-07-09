@@ -1,7 +1,7 @@
 {
   "name": "ANDENCENTO-ᴜsᴇʀʙᴏᴛ",
   "description": "ANDENCENTO is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "NO Logo ",
+  "logo": "http ",
     "keywords": [
     "telegram",
     "userbot",
@@ -75,6 +75,7 @@
     "ANDENCENTO_SESSION": {
       "description": "Get this value by using https://replit.com/@amanpandey7647/ANDENCENTOSESSION and fill this is your String Session",
       "value": ""
+      "required": true
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
@@ -89,6 +90,7 @@
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
       "value": ""
+      "required": true
     },
     "TAG_LOGGER": {
       "description": "Make a group and add rose. Do /id and paste the chat id here.",
