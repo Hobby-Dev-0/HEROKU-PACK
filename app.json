@@ -1,19 +1,19 @@
 {
-  "name": "ANDENCENTO-ᴜsᴇʀʙᴏᴛ",
-  "description": "ANDENCENTO is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/99939edc0f7ac640ab688.png",
+  "name": "ᴇɪᴠᴀ-ᴜsᴇʀʙᴏᴛ",
+  "description": "Eiva is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/0fc1937fabe3e0591a4ba.png ",
     "keywords": [
     "telegram",
     "userbot",
     "plugin",
     "telethon",
-    "Andobot",
+    "Eivabot",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Team-Andencento/Andencento",
-  "website": "https://github.com/Team-Andencento/Andencento",
-  "success_url": "https://github.com/Team-Andencento/Andencento",
+  "repository": "https://github.com/TeamEiva/EivaBot/",
+  "website": "https://github.com/TeamEiva/",
+  "success_url": "https://t.me/TheEiva",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -21,17 +21,22 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is Eiva",
-      "value": "",
+      "value": "ℰⅈᏉᗅ",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Your Custom Alive Message to show on Alive.",
-      "value": "",
+      "value": "ᴇɪᴠᴀ ɪs ᴏɴ ғɪʀᴇ ༄",
       "required": false
     },
     "ALIVE_PIC": {
       "description": "Paste the telegraph link of a video/gif/pic to show on Alive.",
       "value": "",
+      "required": false
+    },
+    "ABUSE": {
+      "description": "Leave it blank if you dont want Profanity in EivaBot. Else Fill ON.",
+      "value": "ON",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -43,6 +48,14 @@
       "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @Eiva50_bot",
       "value": "",
       "required": false
+    },
+    "HANDLER": {
+      "description": "Your command handler. Default is ' . ' (dot).",
+      "value": "."
+    },
+    "EMOJI_IN_HELP": {
+      "description": "A emoji to display in help command",
+      "value": "🔸"
     },
     "BUTTONS_IN_HELP": {
       "description": "No.of buttons to display in help menu.",
@@ -64,10 +77,9 @@
       "description": "Create a private channel. And get it's id from @Eiva50_bot and paste here. Value should start with -100",
       "value": ""
     },
-    "ANDENCENTO_SESSION": {
-      "description": "Get this value by using https://replit.com/@amanpandey7647/ANDENCENTOSESSION and fill this is your String Session",
+    "EivaBOT_SESSION": {
+      "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
-      "required": true
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
@@ -82,7 +94,6 @@
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
       "value": ""
-      "required": true
     },
     "TAG_LOGGER": {
       "description": "Make a group and add rose. Do /id and paste the chat id here.",
@@ -94,12 +105,12 @@
       "value": ""
     },
     "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @)",
+      "description": "Fill your channel username(without @) to get this displayed on your Eiva Alive.",
       "value": "",
       "required": false
     },
     "YOUR_GROUP": {
-      "description": "Fill your group username(without @).",
+      "description": "Fill your group username(without @) to get this displayed on your Eiva Alive.",
       "value": "",
       "required": false
     },
