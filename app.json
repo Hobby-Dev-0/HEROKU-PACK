@@ -1,19 +1,19 @@
 {
-  "name": "ᴇɪᴠᴀ-ᴜsᴇʀʙᴏᴛ",
-  "description": "Eiva is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "name": "ANDENCENTO-ᴜsᴇʀʙᴏᴛ",
+  "description": "ANDENCENTO-ᴜsᴇʀʙᴏᴛ is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
   "logo": "https://telegra.ph/file/0fc1937fabe3e0591a4ba.png ",
     "keywords": [
     "telegram",
     "userbot",
     "plugin",
     "telethon",
-    "Eivabot",
+    "ANDENCENTO",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/TeamEiva/EivaBot/",
-  "website": "https://github.com/TeamEiva/",
-  "success_url": "https://t.me/TheEiva",
+  "repository": "https://github.com/Team-Andencento/Andencento",
+  "website": "https://github.com/Team-Andencento/Andencento",
+  "success_url": "https://github.com/Team-Andencento/Andencento",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -21,12 +21,12 @@
     },
     "YOUR_NAME": {
       "description": "Fill Your Telegram Name. Default Value is Eiva",
-      "value": "ℰⅈᏉᗅ",
+      "value": "",
       "required": false
     },
     "ALIVE_MSG": {
       "description": "Your Custom Alive Message to show on Alive.",
-      "value": "ᴇɪᴠᴀ ɪs ᴏɴ ғɪʀᴇ ༄",
+      "value": "",
       "required": false
     },
     "ALIVE_PIC": {
@@ -55,7 +55,7 @@
     },
     "EMOJI_IN_HELP": {
       "description": "A emoji to display in help command",
-      "value": "🔸"
+      "value": " "
     },
     "BUTTONS_IN_HELP": {
       "description": "No.of buttons to display in help menu.",
@@ -77,8 +77,8 @@
       "description": "Create a private channel. And get it's id from @Eiva50_bot and paste here. Value should start with -100",
       "value": ""
     },
-    "EivaBOT_SESSION": {
-      "description": "Get this value by using repl or termux. Refer to Repo for more info.",
+    "ANDENCENTO_SESSION": {
+      "description": "Get this value by using https://replit.com/@amanpandey7647/ANDENCENTOSESSION and fill this is your String Session.",
       "value": ""
     },
     "HEROKU_API_KEY": {
